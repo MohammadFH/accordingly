@@ -12,7 +12,17 @@
         <label for="input2">Enter Number 2:</label>
         <input type="number" id="input2"><br><br>
 
+        <label for="operation">Operation:</label>
+        <select id="operation" required>
+            <option value="addition">Addition</option>
+            <option value="subtract">Subtract</option>
+            <option value="multiply">Multiply</option>
+            <option value="division">Division</option>
+        </select><br><br>
+
         <button onclick="performOperation()">Perform Operation</button>
+
+
         <p id="result">
             <!--This is a comment-->
         </p>

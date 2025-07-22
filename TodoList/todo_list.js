@@ -54,3 +54,31 @@ function clearAllTasks()
 addTaskBtn.addEventListener("click" , addTask);
 clearCompletedBtn.addEventListener("click" , clearCompletedTask);
 clearAllTasksBtn.onclick = clearAllTasks;
+
+
+
+// to check if browser supports local storage or not (not related to the main code)
+
+function isLocalstoragSupported()
+{
+    try
+    {
+        const testKey = "__test__";
+        localStorage.setItem(testKey , testKey);
+        localStorage.removeItem(testKey);
+        return true;
+    }
+    catch(e)
+    {
+        return true;
+    }
+}
+
+if(isLocalstoragSupported())
+{
+    console.log("supported");
+}
+else
+{
+    console.log("Not Supported");
+}
