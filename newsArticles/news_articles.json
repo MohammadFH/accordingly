@@ -1,0 +1,24 @@
+{
+    "articles":[
+  {
+    "title": "Breakthrough in Quantum Computing Achieved by Researchers",
+    "description": "In a landmark achievement, scientists have developed a quantum computer that can perform calculations previously thought impossible within practical timeframes. This breakthrough could revolutionize cryptography, materials science, and AI applications, significantly reducing the computational limits faced by classical systems."
+  },
+  {
+    "title": "Global Renewable Energy Capacity Reaches Record Levels",
+    "description": "Renewable energy generation has hit an all-time high in 2025, with wind and solar power leading the surge. Experts attribute the growth to falling technology costs, favorable government policies, and increased investment from private sectors seeking sustainable alternatives to fossil fuels."
+  },
+  {
+    "title": "Mars Rover Sends Stunning New Images of Planet's Surface",
+    "description": "NASA's latest Mars rover has transmitted high-resolution images revealing unprecedented details of the planet's rocky terrain and potential signs of ancient riverbeds. Scientists are optimistic that these findings could provide clues about Mars' past habitability."
+  },
+  {
+    "title": "Breakthrough Cancer Treatment Shows Promising Results",
+    "description": "A new form of targeted therapy has demonstrated remarkable success in shrinking tumors without damaging surrounding healthy tissue. Early clinical trials show high survival rates, and researchers are hopeful that the treatment could be available to patients within the next five years."
+  },
+  {
+    "title": "Global AI Regulation Framework Proposed by UN",
+    "description": "The United Nations has proposed a comprehensive global framework to regulate artificial intelligence technologies. The initiative aims to ensure ethical development, prevent misuse, and promote transparency across industries that increasingly rely on AI-driven systems."
+  }
+]
+}
